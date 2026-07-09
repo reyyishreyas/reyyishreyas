@@ -1,145 +1,90 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=gradient&customColorList=12,14,18,19&text=Reyyi%20Shreyas&fontSize=46&fontAlignY=38&animation=fadeIn&desc=Machine%20Learning%20%7C%20Computer%20Vision%20%7C%20Geospatial%20AI&descAlignY=58"/>
-</p>
+<div align="center">
 
-<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=180&section=header&text=Reyyi%20Shreyas&fontSize=42&fontColor=ffffff&fontAlignY=45&desc=AI%20%2F%20ML%20Engineer&descAlignY=62&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1800&color=22C55E&center=true&vCenter=true&width=750&lines=Building+AI+Systems;Machine+Learning;Computer+Vision;Geospatial+AI;Always+Learning.)](https://git.io/typing-svg)
-
-</p>
-
-<p align="center">
-
-<a href="https://portfolio-reyyishreyas-projects.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/reyyi-shreyas/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:reyyishreyas@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<br/>
 
 <a href="https://github.com/reyyishreyas">
-<img src="https://img.shields.io/github/followers/reyyishreyas?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&pause=1500&color=94A3B8&center=true&vCenter=true&width=560&lines=Building+machine+learning+systems+end-to-end;Model+design+%E2%86%92+training+%E2%86%92+production+deployment;Looking+to+contribute+to+ML%2FDL+open+source" alt="Typing SVG" />
 </a>
 
-</p>
+</div>
+
+<br/>
+
+I build machine learning systems from raw data to deployed product — not just notebooks. My work spans supervised learning pipelines, ensemble modeling, and deep learning, wired into full-stack applications people can actually use.
+
+I read code before I write it. Every project below has a working pipeline, a reason for each model choice, and a deployed interface — that's the standard I hold contributions to as well.
 
 ---
 
-# Hi, I'm Reyyi 👋
+### Current Focus
 
-I'm an Artificial Intelligence & Machine Learning undergraduate at **BMS Institute of Technology & Management**.
-
-I enjoy building machine learning systems, experimenting with different approaches, and turning research into practical applications.
-
-Currently looking for **AI/ML**, **Computer Vision**, and **AI Research** internship opportunities.
+- Building ML systems that adapt in real time to user behavior — dynamic difficulty and skill estimation driven by trained models, not fixed rules
+- Designing ensemble pipelines (stacking, boosting, bagging) for structured/tabular prediction problems
+- Reading through the internals of the ML libraries I use daily (scikit-learn, XGBoost) instead of treating them as black boxes
 
 ---
 
-## Currently
+### What I Build
 
-- 🛰 Working on a **Geospatial AI** research project
-- 🤖 Building AI & Machine Learning projects
-- 📖 Exploring **RAG**, **Vector Search**, **FAISS**, and **LangChain**
-
----
-
-## What I Can Contribute
-
-- End-to-end Machine Learning pipelines
-- Model experimentation & comparative evaluation
-- Data preprocessing & feature engineering
-- Computer Vision applications
-- Python-based AI development
-- Research paper implementation
-- Technical documentation
-- Rapid prototyping
+- **Machine learning systems** — regression, classification, and ensemble models trained on real-world tabular data
+- **Deep learning components** — LSTM/GRU-based sequence models for prediction tasks
+- **Full-stack ML applications** — model training pipelines connected to working web apps, not just Jupyter notebooks
+- **Explainable, production-oriented ML** — feature importance, fairness auditing, and model comparison built into the product, not bolted on after
 
 ---
 
-## Tech Stack
+### Technologies
 
 **Languages**
+`Python` `C` `C++` `TypeScript` `JavaScript`
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c" />
-</p>
+**AI / ML**
+`Scikit-learn` `XGBoost` `LightGBM` `TensorFlow` `PyTorch` `Random Forest` `Gradient Boosting` `Ensemble Learning` `Feature Engineering`
 
-**Machine Learning**
-
-<p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
-
-`Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib` • `XGBoost`
-
-**Development**
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,flask,mysql,vscode" />
-</p>
-
-**Learning**
-
-`RAG` • `LangChain` • `FAISS` • `Qdrant` • `Vector Search`
+**Tools**
+`FastAPI` `Flask` `Next.js` `React` `MySQL` `Docker` `Git` `Jupyter` `Google Colab`
 
 ---
 
-## Featured Projects
+### Open Source
 
-| Project | Description |
-|----------|-------------|
-| **SalaryPredict AI** | Comparative evaluation of ensemble models for salary prediction. |
-| **TRICP** | Telecom churn prediction using supervised machine learning. |
-| **ASTRA Chronus AI** | AI system architecture and ML workflow design. |
-| **ChessMind AI** | Chess engine exploring search and evaluation algorithms. |
+I'm looking to contribute to ML/DL projects where I can work on:
+- Model training pipelines and evaluation tooling
+- Ensemble method implementations
+- Sequence model (LSTM/GRU) components and their documentation
 
-➡️ More details are available in the pinned repositories below.
+I learn a codebase by running it, breaking it, and reading the tests — not by skimming the README. First contributions I look for: failing tests, unclear docs, and missing edge-case handling in data preprocessing.
 
----
-
-## Highlights
-
--  B.E. Artificial Intelligence & Machine Learning
--  1st Place — **Launched Global ML Expo**
--  4th Place — **IEEE Winter of Projects**
--  Former Machine Learning Intern
--  Technical Head — ASTRA
+Based in India (IST). Responsive on GitHub issues and PRs.
 
 ---
 
-## GitHub
+### Featured Repositories
 
-<p align="center">
+**[ChessMind AI](https://github.com/reyyishreyas/ChessMind_AI)**
+Adaptive chess engine that predicts player skill from gameplay and adjusts bot ELO in real time using a trained ensemble model.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&hide_border=true&theme=transparent"/>
+**[TRICP — Telecom Retention Intelligence & Churn Predictor](https://github.com/reyyishreyas/churn_predictor)**
+Full-stack churn prediction platform with a stacking ensemble model, explainability dashboard, and automated retention workflows.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&hide_border=true&theme=transparent"/>
+**[SalaryPredict AI](https://github.com/reyyishreyas/Salary_Predict_AI)**
+End-to-end salary prediction system comparing regression and ensemble models, served through a Flask app with analytics and fairness auditing.
 
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=reyyishreyas&hide_border=true&theme=transparent"/>
-
-</p>
+**[Smart Fixture](https://github.com/reyyishreyas/smart_fixture)**
+Tournament management system with automated bracket generation, conflict-aware scheduling, and secure score verification.
 
 ---
 
-## Connect
+### Contact
 
-📧 **Email**  
-reyyishreyas@gmail.com
+[GitHub](https://github.com/reyyishreyas) · [LinkedIn](https://www.linkedin.com/in/reyyi-shreyas/) · reyyishreyas@gmail.com
 
-🌐 **Portfolio**  
-https://portfolio-reyyishreyas-projects.vercel.app
+<br/>
 
-💼 **LinkedIn**  
-https://www.linkedin.com/in/reyyi-shreyas/
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&hide_title=true&hide_border=true&hide_rank=true&title_color=94A3B8&icon_color=94A3B8&text_color=94A3B8&bg_color=00000000" width="450"/>
+</div>
 
-🐙 **GitHub**  
-https://github.com/reyyishreyas
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0f172a,100:1e293b&height=100&section=footer" width="100%"/>
