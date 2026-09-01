@@ -175,100 +175,39 @@ Building LLM systems that determine what action should happen next.
 
 <div align="center">
 
-## 02 / FLAGSHIP SYSTEMS
+<div align="center">
 
-<sub>Projects where models become actual systems.</sub>
+SELECTED PROJECTS
 
 </div>
 
-<br/>
-
-<table>
-<tr>
+<table> <tr>
 
 <td width="50%" valign="top">
 
-<h3>◈ ASTRA CHRONUS AI</h3>
+⌕ RESEARCH PAPER ANALYST
 
-An AI-focused system developed within the ASTRA ecosystem.
+Agentic RAG system for analyzing research papers through retrieval, summarization and comparison workflows. Uses LangChain, Gemini and FAISS with a source-cited interface.
+
+Python LangChain Gemini FAISS
 
 <br/>
 
-<img src="https://img.shields.io/badge/AI-0b1220?style=flat-square&logoColor=94a3b8"/>
-<img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS-0b1220?style=flat-square"/>
-<img src="https://img.shields.io/badge/ASTRA-0b1220?style=flat-square"/>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/Astra-chronus-ai-">
-<img src="https://img.shields.io/badge/EXPLORE%20ASTRA%20CHRONUS%20AI-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
+<a href="https://github.com/reyyishreyas/research-agent-rag">VIEW REPOSITORY →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>⌕ RESEARCH PAPER ANALYST</h3>
+◉ ASTRA CHRONOS AI
 
-Agentic RAG system that reasons about research-paper queries and selects between retrieval, summarization and comparison workflows.
+AI-powered counter-UAS simulation system using GRU-based trajectory prediction, dynamic threat assessment and autonomous interceptor guidance in a real-time 3D environment.
 
-Documents are chunked, embedded and indexed in FAISS, with a source-cited interface.
-
-<br/>
-
-<code>Python</code> <code>LangChain</code> <code>Gemini</code> <code>FAISS</code>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/research-agent-rag">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
-
-</td>
-
-</tr>
-</table>
+Python GRU AI 3D Simulation
 
 <br/>
 
-<table>
-<tr>
-
-<td width="50%" valign="top">
-
-<h3>♟ CHESSMIND AI</h3>
-
-Adaptive chess engine that predicts player skill from gameplay and dynamically adjusts bot ELO using a trained ensemble model.
-
-<br/>
-
-<code>TypeScript</code> <code>Ensemble Learning</code> <code>Adaptive Systems</code>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/ChessMind_AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-<h3>◇ TRICP</h3>
-
-<b>Telecom Retention Intelligence & Churn Predictor</b>
-
-Full-stack churn prediction platform using a stacking ensemble, explainability dashboard and automated retention workflows.
-
-<br/>
-
-<code>TypeScript</code> <code>Stacking</code> <code>Explainability</code>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/churn_predictor">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
+<a href="https://github.com/reyyishreyas/Astra-chronus-ai-">VIEW REPOSITORY →</a>
 
 </td>
 
@@ -278,44 +217,65 @@ Full-stack churn prediction platform using a stacking ensemble, explainability d
 
 <td width="50%" valign="top">
 
-<h3>◈ SALARYPREDICT AI</h3>
+◇ TRICP
 
-End-to-end salary prediction system comparing regression and ensemble models, with analytics and fairness auditing.
+Telecom churn prediction platform using a stacking ensemble model with explainability and automated retention workflows.
+
+TypeScript Stacking Explainability
 
 <br/>
 
-<code>Python</code> <code>Flask</code> <code>Regression</code> <code>Ensemble</code>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/Salary_Predict_AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
+<a href="https://github.com/reyyishreyas/churn_predictor">VIEW REPOSITORY →</a>
 
 </td>
 
 <td width="50%" valign="top">
 
-<h3>◫ SMART FIXTURE</h3>
+♟ CHESSMIND AI
+
+Adaptive chess system that predicts player skill from gameplay and dynamically adjusts bot difficulty using a trained ensemble model.
+
+TypeScript Ensemble Learning Adaptive AI
+
+<br/>
+
+<a href="https://github.com/reyyishreyas/ChessMind_AI">VIEW REPOSITORY →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" valign="top">
+
+◈ SALARYPREDICT AI
+
+End-to-end salary prediction system comparing regression and ensemble models with analytics and fairness auditing.
+
+Python Flask Regression Fairness
+
+<br/>
+
+<a href="https://github.com/reyyishreyas/Salary_Predict_AI">VIEW REPOSITORY →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+◫ SMART FIXTURE
 
 Tournament management system with automated bracket generation, conflict-aware scheduling and secure score verification.
 
+TypeScript Scheduling Full Stack
+
 <br/>
 
-<code>TypeScript</code> <code>Scheduling</code> <code>Full Stack</code>
-
-<br/><br/>
-
-<a href="https://github.com/reyyishreyas/smart_fixture">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
-</a>
+<a href="https://github.com/reyyishreyas/smart_fixture">VIEW REPOSITORY →</a>
 
 </td>
 
-</tr>
-</table>
-
----
+</tr> </table>
 
 <div align="center">
 
