@@ -200,7 +200,7 @@ An AI-focused system developed within the ASTRA ecosystem.
 
 <br/><br/>
 
-<a href="https://github.com/reyyishreyas/Astra-chronus-ai">
+<a href="https://github.com/reyyishreyas/Astra-chronus-ai-">
 <img src="https://img.shields.io/badge/EXPLORE%20ASTRA%20CHRONUS%20AI-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
