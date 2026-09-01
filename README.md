@@ -1,22 +1,31 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:05070a,45:0f1720,100:172033&height=220&section=header&text=REYYI%20SHREYAS&fontSize=48&fontColor=e2e8f0&fontAlignY=40&desc=AI%20%2F%20ML%20ENGINEER%20%7C%20RESEARCH%20%7C%20SYSTEMS&descAlignY=61&descSize=16&descColor=94a3b8&animation=fadeIn"/>
-
-<a href="https://github.com/reyyishreyas">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&duration=3200&pause=1000&color=94A3B8&center=true&vCenter=true&width=760&height=45&lines=Building+machine+learning+systems%2C+not+just+notebooks.;Data+%E2%86%92+Models+%E2%86%92+Systems+%E2%86%92+Products;Deep+Learning+%7C+Computer+Vision+%7C+Agentic+AI;Research%2C+experimentation%2C+engineering."/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,45:0b1220,100:172033&height=230&section=header&text=REYYI%20SHREYAS&fontSize=52&fontColor=f1f5f9&fontAlignY=38&desc=AI%20%2F%20ML%20ENGINEER%20%20%E2%80%A2%20RESEARCH%20%E2%80%A2%20INTELLIGENT%20SYSTEMS&descAlignY=60&descSize=15&descColor=94a3b8&animation=fadeIn"/>
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=CBD5E1&center=true&vCenter=true&width=850&height=55&lines=Building+intelligent+systems+from+raw+data+to+deployed+reality.;Machine+Learning+%7C+Deep+Learning+%7C+Computer+Vision;Agentic+AI+%7C+Research+%7C+Intelligent+Systems;Data+%E2%86%92+Models+%E2%86%92+Evaluation+%E2%86%92+Systems"/>
+
+<br/><br/>
+
 <a href="https://github.com/reyyishreyas">
-<img src="https://img.shields.io/badge/GitHub-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/GITHUB-0b1220?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/reyyi-shreyas/">
-<img src="https://img.shields.io/badge/LinkedIn-0b0f14?style=for-the-badge&logo=linkedin&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=94a3b8"/>
 </a>
+&nbsp;
 <a href="mailto:reyyishreyas@gmail.com">
-<img src="https://img.shields.io/badge/Email-0b0f14?style=for-the-badge&logo=gmail&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/CONTACT-0b1220?style=for-the-badge&logo=gmail&logoColor=94a3b8"/>
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/BUILDING-0b1220?style=flat-square&labelColor=0b1220&color=334155"/>
+<img src="https://img.shields.io/badge/RESEARCH-0b1220?style=flat-square&labelColor=0b1220&color=334155"/>
+<img src="https://img.shields.io/badge/EXPERIMENTING-0b1220?style=flat-square&labelColor=0b1220&color=334155"/>
+<img src="https://img.shields.io/badge/SHIPPING-0b1220?style=flat-square&labelColor=0b1220&color=334155"/>
 
 </div>
 
@@ -24,75 +33,67 @@
 
 <div align="center">
 
-`MACHINE LEARNING`  •  `DEEP LEARNING`  •  `COMPUTER VISION`  •  `AGENTIC AI`
+### `INTELLIGENCE IS ONLY USEFUL WHEN IT CAN BECOME A SYSTEM.`
 
 </div>
 
 ---
 
-## 01 · SYSTEM PROFILE
-
-I build machine learning systems that move beyond experimentation and into usable software.
-
-My work spans supervised learning, ensemble methods, deep learning, computer vision, agentic AI, retrieval systems, and full-stack ML applications. I care about the entire pipeline: understanding the data, choosing and evaluating models, studying what happens underneath the abstractions, and turning the resulting system into something people can actually use.
-
-I prefer understanding a system over treating it as a black box.
-
-That means reading implementations, testing assumptions, investigating edge cases, comparing approaches, and occasionally discovering that the bug was, in fact, me.
-
----
-
-## 02 · CURRENTLY BUILDING
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### ◈ Adaptive ML Systems
+## WHO I AM
 
-Systems where trained models influence application behaviour dynamically rather than relying entirely on fixed rules.
+I build machine learning systems that go beyond notebooks.
 
-**Focus**
+My work sits at the intersection of **machine learning, deep learning, computer vision, agentic AI and research-oriented engineering**.
 
-`Skill Estimation` · `Dynamic Difficulty` · `Prediction`
+I like taking a problem from:
 
-</td>
+**raw data → modeling → evaluation → application**
 
-<td width="50%" valign="top">
+and understanding every layer along the way.
 
-### ◈ Ensemble Intelligence
+I read implementations.
+I test assumptions.
+I compare approaches.
+I break things.
 
-Exploring stacking, boosting, bagging and model comparison for practical prediction problems.
-
-**Focus**
-
-`XGBoost` · `LightGBM` · `Stacking` · `Evaluation`
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ◈ Agentic RAG
-
-Building systems where an LLM determines what operation is appropriate before acting on retrieved information.
-
-**Focus**
-
-`Retrieval` · `Tool Selection` · `Summarization` · `Comparison`
+Then I try to make them work properly.
 
 </td>
 
-<td width="50%" valign="top">
+<td width="45%" valign="top">
 
-### ◈ Deep Learning & Vision
+## SYSTEM PROFILE
 
-Working with neural architectures for sequential and visual learning problems, with an emphasis on understanding the model pipeline rather than only calling an API.
+```text
+┌──────────────────────────┐
+│      REYYI SHREYAS       │
+├──────────────────────────┤
+│ AI / ML                  │
+│ Deep Learning            │
+│ Computer Vision          │
+│ Agentic AI               │
+│ Research                 │
+│ Intelligent Systems      │
+├──────────────────────────┤
+│ BUILD → TEST → LEARN     │
+└──────────────────────────┘
+```
 
-**Focus**
+**Current direction**
 
-`PyTorch` · `TensorFlow` · `LSTM` · `GRU` · `Computer Vision`
+`ML Systems`
+
+`Deep Learning`
+
+`Agentic RAG`
+
+`Computer Vision`
+
+`Research`
 
 </td>
 </tr>
@@ -100,119 +101,173 @@ Working with neural architectures for sequential and visual learning problems, w
 
 ---
 
-## 03 · WHAT I BUILD
+<div align="center">
+
+## 01 / WHAT I'M BUILDING
+
+</div>
 
 <table>
 <tr>
-<td width="28%" valign="top"><b>Machine Learning</b></td>
-<td>Regression, classification, ensemble learning, feature analysis, model comparison and evaluation.</td>
-</tr>
 
-<tr>
-<td valign="top"><b>Deep Learning</b></td>
-<td>Sequence models and neural network components for prediction and representation learning.</td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td valign="top"><b>Agentic AI</b></td>
-<td>LLM systems that combine reasoning, retrieval and tool selection rather than relying on a single prompt.</td>
-</tr>
+### ◉ ADAPTIVE ML
 
-<tr>
-<td valign="top"><b>Computer Vision</b></td>
-<td>Machine learning systems working with visual information and image-based prediction problems.</td>
-</tr>
+Building systems where trained models influence application behaviour dynamically.
 
-<tr>
-<td valign="top"><b>Full-Stack ML</b></td>
-<td>Connecting trained models to APIs, interfaces, databases and deployable applications.</td>
-</tr>
+**Exploring**
 
-<tr>
-<td valign="top"><b>Explainable ML</b></td>
-<td>Model comparison, feature importance, fairness analysis and evaluation integrated into applications.</td>
+`Skill Estimation`
+
+`Dynamic Difficulty`
+
+`Prediction`
+
+`Real-time Adaptation`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ◈ ENSEMBLE INTELLIGENCE
+
+Working with multiple models to improve practical prediction systems.
+
+**Exploring**
+
+`Stacking`
+
+`Boosting`
+
+`Bagging`
+
+`XGBoost`
+
+`LightGBM`
+
+</td>
+
+<td width="33%" valign="top">
+
+### ⌬ AGENTIC AI
+
+Building LLM systems that determine what action should happen next.
+
+**Exploring**
+
+`RAG`
+
+`Tool Selection`
+
+`Retrieval`
+
+`Summarization`
+
+`Comparison`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
-## 04 · FEATURED SYSTEMS
+<div align="center">
 
-<table>
-<tr>
+## 02 / FLAGSHIP SYSTEMS
 
-<td width="50%" valign="top">
+<sub>Projects where models become actual systems.</sub>
 
-### ⌬ ASTRA Chronus AI
-
-AI-focused system developed within the ASTRA ecosystem.
+</div>
 
 <br/>
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+<h3>◈ ASTRA CHRONUS AI</h3>
+
+An AI-focused system developed within the ASTRA ecosystem.
+
+<br/>
+
+<img src="https://img.shields.io/badge/AI-0b1220?style=flat-square&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/INTELLIGENT_SYSTEMS-0b1220?style=flat-square"/>
+<img src="https://img.shields.io/badge/ASTRA-0b1220?style=flat-square"/>
+
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/Astra-chronus-ai">
-<img src="https://img.shields.io/badge/EXPLORE%20REPOSITORY-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/EXPLORE%20ASTRA%20CHRONUS%20AI-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ⌕ Research Paper Analyst Agent
+<h3>⌕ RESEARCH PAPER ANALYST</h3>
 
-Agentic RAG system for interacting with a corpus of research papers.
+Agentic RAG system that reasons about research-paper queries and selects between retrieval, summarization and comparison workflows.
 
-The system reasons about the query and selects between retrieval, summarization and comparison workflows, with documents chunked, embedded and indexed using FAISS.
-
-<br/>
-
-`Python` `LangChain` `Gemini` `FAISS`
+Documents are chunked, embedded and indexed in FAISS, with a source-cited interface.
 
 <br/>
+
+<code>Python</code> <code>LangChain</code> <code>Gemini</code> <code>FAISS</code>
+
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/research-agent-rag">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
 
 </tr>
+</table>
 
+<br/>
+
+<table>
 <tr>
 
 <td width="50%" valign="top">
 
-### ♟ ChessMind AI
+<h3>♟ CHESSMIND AI</h3>
 
-Adaptive chess engine that predicts player skill from gameplay and adjusts bot ELO dynamically using a trained ensemble model.
-
-<br/>
-
-`TypeScript` `Ensemble Learning` `Adaptive Systems`
+Adaptive chess engine that predicts player skill from gameplay and dynamically adjusts bot ELO using a trained ensemble model.
 
 <br/>
+
+<code>TypeScript</code> <code>Ensemble Learning</code> <code>Adaptive Systems</code>
+
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/ChessMind_AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◇ TRICP
+<h3>◇ TRICP</h3>
 
-**Telecom Retention Intelligence & Churn Predictor**
+<b>Telecom Retention Intelligence & Churn Predictor</b>
 
 Full-stack churn prediction platform using a stacking ensemble, explainability dashboard and automated retention workflows.
 
 <br/>
 
-`TypeScript` `Stacking` `Explainability`
+<code>TypeScript</code> <code>Stacking</code> <code>Explainability</code>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/churn_predictor">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
@@ -223,36 +278,36 @@ Full-stack churn prediction platform using a stacking ensemble, explainability d
 
 <td width="50%" valign="top">
 
-### ◈ SalaryPredict AI
+<h3>◈ SALARYPREDICT AI</h3>
 
-End-to-end salary prediction system comparing regression and ensemble approaches, served through a Flask application with analytics and fairness auditing.
-
-<br/>
-
-`Python` `Flask` `Regression` `Ensemble Learning`
+End-to-end salary prediction system comparing regression and ensemble models, with analytics and fairness auditing.
 
 <br/>
+
+<code>Python</code> <code>Flask</code> <code>Regression</code> <code>Ensemble</code>
+
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/Salary_Predict_AI">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
 
 <td width="50%" valign="top">
 
-### ◫ Smart Fixture
+<h3>◫ SMART FIXTURE</h3>
 
 Tournament management system with automated bracket generation, conflict-aware scheduling and secure score verification.
 
 <br/>
 
-`TypeScript` `Scheduling` `Full Stack`
+<code>TypeScript</code> <code>Scheduling</code> <code>Full Stack</code>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas/smart_fixture">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-111827?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
 
 </td>
@@ -262,154 +317,209 @@ Tournament management system with automated bracket generation, conflict-aware s
 
 ---
 
-## 05 · TECHNOLOGY STACK
-
 <div align="center">
 
-### LANGUAGES
-
-<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,javascript&theme=dark"/>
-
-<br/><br/>
-
-### AI / MACHINE LEARNING
-
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
-
-<br/>
-
-<img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/XGBoost-111827?style=flat-square&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/LightGBM-111827?style=flat-square&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=94A3B8"/>
-<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logoColor=94A3B8"/>
-
-<br/><br/>
-
-### APPLICATION / INFRASTRUCTURE
-
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,mysql,docker,git,jupyter&theme=dark"/>
+## 03 / THE STACK
 
 </div>
 
+<table>
+<tr>
+<td width="22%" valign="top"><b>LANGUAGES</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=python,c,cpp,typescript,javascript&theme=dark"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top"><b>AI / ML</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/scikit--learn-111827?style=flat-square&logo=scikitlearn&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/XGBoost-111827?style=flat-square&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/LightGBM-111827?style=flat-square&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/LangChain-111827?style=flat-square&logo=langchain&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/FAISS-111827?style=flat-square&logoColor=94a3b8"/>
+
+</td>
+</tr>
+
+<tr>
+<td valign="top"><b>APPLICATION</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,react,mysql,docker,git,jupyter&theme=dark"/>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 06 · ENGINEERING MINDSET
+<div align="center">
+
+## 04 / HOW I WORK
+
+</div>
+
+<br/>
 
 <table>
 <tr>
-<td width="25%" align="center">
 
-**01**
+<td align="center" width="25%">
 
-<br/>
+### 01
 
-UNDERSTAND
-
-<br/>
+**UNDERSTAND**
 
 Read the implementation.
+
 Understand the assumptions.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**02**
+### 02
 
-<br/>
+**EXPERIMENT**
 
-EXPERIMENT
+Build alternatives.
 
-<br/>
-
-Compare approaches.
 Measure what changes.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**03**
+### 03
 
-<br/>
-
-BREAK
-
-<br/>
+**BREAK**
 
 Test edge cases.
+
 Find where systems fail.
 
 </td>
 
-<td width="25%" align="center">
+<td align="center" width="25%">
 
-**04**
+### 04
+
+**SHIP**
+
+Turn experiments into usable systems.
+
+</td>
+
+</tr>
+</table>
 
 <br/>
 
-SHIP
+<div align="center">
 
-<br/>
+> **A model that works in a notebook is an experiment.**
+>
+> **A model that survives evaluation, integration and real usage is a system.**
 
-Turn the experiment
-into something usable.
+</div>
+
+---
+
+<div align="center">
+
+## 05 / RESEARCH & OPEN SOURCE
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### RESEARCH
+
+I am interested in ML/DL work where the important questions are not only *“does it work?”* but also:
+
+* Why does it work?
+* Where does it fail?
+* What changes when the data changes?
+* Which assumptions are actually valid?
+* Can the system be reproduced and evaluated properly?
+
+</td>
+
+<td width="50%" valign="top">
+
+### OPEN SOURCE
+
+Interested in contributing to projects involving:
+
+`Model Training`
+
+`Evaluation`
+
+`Ensemble Methods`
+
+`LSTM / GRU`
+
+`Preprocessing`
+
+`Documentation`
+
+I prefer contributions where understanding the internals matters.
 
 </td>
 </tr>
 </table>
 
-> A model that works in a notebook is an experiment.
->
-> A model that survives data, evaluation, integration and actual users is a system.
-
 ---
-
-## 07 · OPEN SOURCE
-
-I am interested in contributing to ML/DL projects involving:
-
-`Model Training Pipelines` · `Evaluation Tooling` · `Ensemble Methods` · `LSTM / GRU` · `Data Preprocessing` · `Documentation`
-
-I learn codebases by running them, reading the implementation, testing assumptions and investigating failures rather than only reading the README.
-
-I am particularly interested in contributions where the work involves understanding how an ML system actually behaves under the hood.
-
----
-
-## 08 · GITHUB ACTIVITY
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reyyishreyas&theme=github_dark" width="95%"/>
+## 06 / GITHUB ACTIVITY
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=reyyishreyas&theme=github_dark" width="96%"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=reyyishreyas&hide_border=true&background=0b0f14&stroke=334155&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=reyyishreyas&hide_border=true&background=0b1220&stroke=334155&ring=64748b&fire=94a3b8&currStreakLabel=94a3b8&sideLabels=94a3b8&currStreakNum=e2e8f0&sideNums=e2e8f0&dates=64748b" height="170"/>
 
 </div>
 
 ---
 
 <div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=64748B&center=true&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives."/>
+
+<br/><br/>
 
 <a href="https://github.com/reyyishreyas">
-<img src="https://img.shields.io/badge/GITHUB-0b0f14?style=for-the-badge&logo=github&logoColor=e2e8f0"/>
+<img src="https://img.shields.io/badge/GITHUB-0b1220?style=for-the-badge&logo=github&logoColor=f1f5f9"/>
 </a>
-
+&nbsp;
 <a href="https://www.linkedin.com/in/reyyi-shreyas/">
-<img src="https://img.shields.io/badge/LINKEDIN-0b0f14?style=for-the-badge&logo=linkedin&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0b1220?style=for-the-badge&logo=linkedin&logoColor=94a3b8"/>
 </a>
-
+&nbsp;
 <a href="mailto:reyyishreyas@gmail.com">
-<img src="https://img.shields.io/badge/REACH%20OUT-0b0f14?style=for-the-badge&logo=gmail&logoColor=94a3b8"/>
+<img src="https://img.shields.io/badge/EMAIL-0b1220?style=for-the-badge&logo=gmail&logoColor=94a3b8"/>
 </a>
 
 <br/><br/>
 
-<sub>Building systems. Studying the machinery underneath. Shipping what survives.</sub>
+<sub>AI / ML • Research • Intelligent Systems • Engineering</sub>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,50:0f1720,100:05070a&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:172033,50:0b1220,100:020617&height=130&section=footer" width="100%"/>
