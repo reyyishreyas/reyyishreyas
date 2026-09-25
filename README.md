@@ -120,17 +120,6 @@ Compares regression and ensemble models for salary prediction with a fairness-au
 <a href="https://github.com/reyyishreyas/Salary_Predict_AI">VIEW REPOSITORY →</a>
 
 </td>
-<td width="50%" valign="top">
-
-**🗓️ Smart Fixture**
-
-Tournament platform: automated bracket generation, conflict-aware scheduling and secure score verification.
-
-`FastAPI` `Next.js` `Supabase`
-
-<a href="https://github.com/reyyishreyas/smart_fixture">VIEW REPOSITORY →</a>
-
-</td>
 
 </tr>
 </table>
