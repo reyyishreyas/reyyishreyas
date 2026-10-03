@@ -206,6 +206,14 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
   <img src="https://streak-stats.demolab.com/?user=reyyishreyas&hide_border=true&border_radius=0&background=09090B&stroke=27272A&ring=e8a33d&fire=e8a33d&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=52525B" alt="Contribution streak for reyyishreyas">
 </picture>
 
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-light.svg">
+  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%">
+</picture>
+
 ---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=71717A&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives." alt="Build the model. Understand the system. Test the assumptions. Ship what survives." width="700">
