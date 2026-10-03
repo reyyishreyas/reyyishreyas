@@ -20,6 +20,12 @@ Most of what I learn happens in public: recent documentation and contributor wor
 
 I'd rather read the source than trust the demo.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-light.svg">
+  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg" alt="Status panel: 244 commits, 17 pull requests, 11 repositories contributed to, 305 contribution days. Snapshot October 2026." width="100%">
+</picture>
+
 ---
 
 ## Open source
@@ -190,27 +196,6 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 ---
 
 ## GitHub activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=b45309&icon_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="GitHub stats for Reyyi Shreyas" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="Top languages for reyyishreyas" width="49%">
-</picture>
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=reyyishreyas&hide_border=true&border_radius=0&background=09090B&stroke=27272A&ring=e8a33d&fire=e8a33d&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=52525B">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=reyyishreyas&hide_border=true&border_radius=0&background=F4F4F5&stroke=E4E4E7&ring=d97706&fire=d97706&currStreakNum=18181B&sideNums=18181B&currStreakLabel=52525B&sideLabels=52525B&dates=A1A1AA">
-  <img src="https://streak-stats.demolab.com/?user=reyyishreyas&hide_border=true&border_radius=0&background=09090B&stroke=27272A&ring=e8a33d&fire=e8a33d&currStreakNum=e4e4e7&sideNums=e4e4e7&currStreakLabel=a1a1aa&sideLabels=a1a1aa&dates=52525B" alt="Contribution streak for reyyishreyas">
-</picture>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-dark.svg">

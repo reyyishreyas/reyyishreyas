@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="216" viewBox="0 0 1200 216" role="img" aria-label="Status panel: 244 commits, 17 pull requests, 11 repositories contributed to, 305 contribution days. Snapshot October 2026.">
+  <title>Status panel: 244 commits, 17 pull requests, 11 repositories contributed to, 305 contribution days. Snapshot October 2026.</title>
+  <style>
+    .label {
+      font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 12.5px;
+      font-weight: 500;
+      letter-spacing: 1.8px;
+      fill: #a1a1aa;
+    }
+    .value {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-size: 48px;
+      font-weight: 700;
+      letter-spacing: -0.01em;
+      fill: #e8a33d;
+    }
+    .note {
+      font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 10px;
+      letter-spacing: 1.2px;
+      fill: #52525b;
+    }
+    .tool {
+      font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
+      font-size: 15px;
+      font-weight: 500;
+      fill: #a1a1aa;
+    }
+    .sep { fill: #e8a33d; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="1199" height="215" fill="#09090b" stroke="#262626" stroke-width="1"/>
+
+  <rect x="300" y="36" width="1" height="96" fill="#262626"/>
+  <rect x="600" y="36" width="1" height="96" fill="#262626"/>
+  <rect x="900" y="36" width="1" height="96" fill="#262626"/>
+
+  <g opacity="0">
+    <text class="label" x="150" y="62" text-anchor="middle">COMMITS</text>
+    <text class="value" x="150" y="126" text-anchor="middle">244</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.15s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.15s" dur="0.45s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text class="label" x="450" y="62" text-anchor="middle">PULL REQUESTS</text>
+    <text class="value" x="450" y="126" text-anchor="middle">17</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.35s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.35s" dur="0.45s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text class="label" x="750" y="62" text-anchor="middle">REPOS CONTRIBUTED</text>
+    <text class="value" x="750" y="126" text-anchor="middle">11</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.55s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.55s" dur="0.45s" fill="freeze"/>
+  </g>
+  <g opacity="0">
+    <text class="label" x="1050" y="62" text-anchor="middle">CONTRIBUTION DAYS</text>
+    <text class="value" x="1050" y="126" text-anchor="middle">305</text>
+    <animate attributeName="opacity" from="0" to="1" begin="0.7500000000000001s" dur="0.45s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" from="0 10" to="0 0" begin="0.7500000000000001s" dur="0.45s" fill="freeze"/>
+  </g>
+
+  <text class="note" x="1176" y="156" text-anchor="end">SNAPSHOT | OCT 2026</text>
+
+  <!-- marquee band -->
+  <rect x="1" y="168" width="1198" height="1" fill="#262626"/>
+  <g>
+    <text class="tool" x="24" y="196" textLength="2790" lengthAdjust="spacing"><tspan class="tool">nilearn</tspan><tspan class="sep"> | </tspan><tspan class="tool">PCNtoolkit</tspan><tspan class="sep"> | </tspan><tspan class="tool">movement</tspan><tspan class="sep"> | </tspan><tspan class="tool">mcp-mifosx</tspan><tspan class="sep"> | </tspan><tspan class="tool">PyTorch</tspan><tspan class="sep"> | </tspan><tspan class="tool">LangChain</tspan><tspan class="sep"> | </tspan><tspan class="tool">LangGraph</tspan><tspan class="sep"> | </tspan><tspan class="tool">scikit-learn</tspan><tspan class="sep"> | </tspan><tspan class="tool">XGBoost</tspan><tspan class="sep"> | </tspan><tspan class="tool">FAISS</tspan><tspan class="sep"> | </tspan><tspan class="tool">Streamlit</tspan><tspan class="sep"> | </tspan><tspan class="tool">FastAPI</tspan><tspan class="sep"> | </tspan><tspan class="tool">Jupyter</tspan><tspan class="sep"> | </tspan><tspan class="tool">Docker</tspan><tspan class="sep"> | </tspan><tspan class="tool">nilearn</tspan><tspan class="sep"> | </tspan><tspan class="tool">PCNtoolkit</tspan><tspan class="sep"> | </tspan><tspan class="tool">movement</tspan><tspan class="sep"> | </tspan><tspan class="tool">mcp-mifosx</tspan><tspan class="sep"> | </tspan><tspan class="tool">PyTorch</tspan><tspan class="sep"> | </tspan><tspan class="tool">LangChain</tspan><tspan class="sep"> | </tspan><tspan class="tool">LangGraph</tspan><tspan class="sep"> | </tspan><tspan class="tool">scikit-learn</tspan><tspan class="sep"> | </tspan><tspan class="tool">XGBoost</tspan><tspan class="sep"> | </tspan><tspan class="tool">FAISS</tspan><tspan class="sep"> | </tspan><tspan class="tool">Streamlit</tspan><tspan class="sep"> | </tspan><tspan class="tool">FastAPI</tspan><tspan class="sep"> | </tspan><tspan class="tool">Jupyter</tspan><tspan class="sep"> | </tspan><tspan class="tool">Docker</tspan><tspan class="sep"> | </tspan></text>
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-1395 0" dur="24s" begin="1s" repeatCount="indefinite"/>
+  </g>
+</svg>
