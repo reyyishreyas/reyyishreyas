@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg" alt="Reyyi Shreyas. AI/ML engineer, open source, Python." width="100%">
+  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg" alt="Reyyi Shreyas. AI/ML engineer, researcher, open source." width="100%">
 </picture>
 
 <br/>
@@ -38,7 +38,16 @@ I'd rather read the source than trust the demo.
 
 ---
 
-## Open source
+## Currently
+
+- Researching lightweight hallucination detection for quantized small LMs
+- Building and evaluating agentic LLM systems
+- Contributing to open-source scientific Python projects
+- Exploring efficient ML systems and evaluation
+
+---
+
+## Open source contributions
 
 | Repository | Contribution | Status |
 |:--|:--|:--:|
@@ -47,7 +56,21 @@ I'd rather read the source than trust the demo.
 | [**PCNtoolkit** #551](https://github.com/predictive-clinical-neuroscience/PCNtoolkit/pull/551) | Documented `basis_column`, `nknots` and `degree` in the HBR normative-modelling tutorial | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
 | [**movement** #1115](https://github.com/neuroinformatics-unit/movement/pull/1115) | Added the IO-guide update step to the *"Implementing new loaders & writers"* guide | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
 
-<sub>Also contributing: BIDS validation limits for INCF/artem-is, CI and security workflows for openMF MCP servers, with further pull requests under review.</sub>
+<sub>Selected open pull requests under review: PCNtoolkit #563, movement #1125 and #1127, artem-is #164 and #165, mcp-mifosx #522, mcp-mifosx-self-service #43 and #44, sentiment module #14.</sub>
+
+---
+
+## Research
+
+### Lightweight Retrieval-Grounded Hallucination Detection
+
+Researching a lightweight hallucination detection pipeline for quantized small language models using retrieval grounding, embedding-overlap signals and generation confidence.
+
+The system performs sentence-level detection using a lightweight classifier and evaluates the trade-offs between **FP16, 8-bit and 4-bit quantization** across detection quality, hallucination rate, latency and GPU memory.
+
+`LLMs` `RAG` `Quantization` `Hallucination Detection` `Evaluation`
+
+**Status:** Preparing submissions to research conferences
 
 ---
 
@@ -60,7 +83,9 @@ I'd rather read the source than trust the demo.
 
 **ChessMind AI**
 
-Adaptive chess trainer with a two-model shared-memory coach: a suggester LLM reasons over the position, a feedback LLM coaches from verified engine facts. A per-move ensemble predicts player Elo; a reproducible eval harness measures calibration and hallucination.
+Adaptive chess trainer using a two-model shared-memory architecture: a suggester LLM reasons over the position while a feedback LLM coaches from verified engine facts.
+
+Reduced first-feedback latency from **7.6s → 1.7s** while keeping generation grounded in verified engine analysis. Includes a per-move Elo ensemble and reproducible evaluation harness.
 
 `LLM Agents` `Ensembles` `Evaluation`
 
@@ -84,6 +109,17 @@ Agentic RAG that autonomously chooses between retrieval, summarization and compa
 
 <td width="50%" valign="top">
 
+**Lunar image registration**
+
+Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspondence and RANSAC, with a 7-module super-resolution pipeline ([isro_1m](https://github.com/reyyishreyas/isro_1m)) for hazard mapping.
+
+`OpenCV` `RANSAC` `Super-resolution`
+
+<a href="https://github.com/reyyishreyas/lunar-image-registration">VIEW REPOSITORY →</a>
+
+</td>
+<td width="50%" valign="top">
+
 **Astra Chronos AI**
 
 A 2-layer GRU predicts UAV trajectories from flight history; predictions drive threat scoring and autonomous interceptor guidance in a real-time 3D simulator.
@@ -93,6 +129,10 @@ A 2-layer GRU predicts UAV trajectories from flight history; predictions drive t
 <a href="https://github.com/reyyishreyas/Astra-chronus-ai-">VIEW REPOSITORY →</a>
 
 </td>
+
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
 **TRICP** <a href="https://churn-predictor-kappa.vercel.app"><img src="https://img.shields.io/badge/LIVE-0d9488?style=flat-square" alt="Live demo"></a>
@@ -104,35 +144,23 @@ Stacking-ensemble churn prediction that surfaces the factors behind each predict
 <a href="https://github.com/reyyishreyas/TRICP">VIEW REPOSITORY →</a>
 
 </td>
-
-</tr>
-<tr>
-
-<td width="50%" valign="top">
-
-**SalaryPredict AI**
-
-Compares regression and ensemble models for salary prediction with a fairness-auditing layer, end to end from training to deployed Flask app.
-
-`XGBoost` `Fairness` `Flask`
-
-<a href="https://github.com/reyyishreyas/Salary_Predict_AI">VIEW REPOSITORY →</a>
-
-</td>
-<td width="50%" valign="top">
-
-**Lunar image registration**
-
-Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspondence and RANSAC, with a 7-module super-resolution pipeline ([isro_1m](https://github.com/reyyishreyas/isro_1m)) for hazard mapping.
-
-`OpenCV` `RANSAC` `Super-resolution`
-
-<a href="https://github.com/reyyishreyas/lunar-image-registration">VIEW REPOSITORY →</a>
-
-</td>
+<td width="50%" valign="top"></td>
 
 </tr>
 </table>
+
+---
+
+## Experience & leadership
+
+**ASTRA — President**
+BMSIT&M's defence-technology student organization. Leading technical, research, recruitment and cross-team initiatives.
+
+**ML Intern — Launched Global**
+Worked on machine-learning applications and applied AI workflows.
+
+**Open-source contributor**
+Contributed documentation, bug fixes and tooling improvements across scientific Python and open-source ML projects.
 
 ---
 
@@ -140,56 +168,28 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 
 <table>
 <tr>
-<td width="22%" valign="top"><b>LANGUAGES</b></td>
-<td>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
-<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
-</picture>
-
-<sub><b>Python</b> for everything I build: ML research, data pipelines, services and tooling.</sub>
-
-</td>
+<td width="24%" valign="top"><b>LANGUAGES</b></td>
+<td><code>Python</code></td>
 </tr>
 
 <tr>
-<td valign="top"><b>AI / ML</b></td>
-<td>
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light">
-<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch">
-</picture>
-
-<img src="https://img.shields.io/badge/NumPy-262626?style=flat-square&logo=numpy&logoColor=a1a1aa" alt="NumPy">
-<img src="https://img.shields.io/badge/pandas-262626?style=flat-square&logo=pandas&logoColor=a1a1aa" alt="pandas">
-<img src="https://img.shields.io/badge/scikit--learn-262626?style=flat-square&logo=scikitlearn&logoColor=a1a1aa" alt="scikit-learn">
-<img src="https://img.shields.io/badge/XGBoost-262626?style=flat-square" alt="XGBoost">
-<img src="https://img.shields.io/badge/LightGBM-262626?style=flat-square" alt="LightGBM">
-<img src="https://img.shields.io/badge/OpenCV-262626?style=flat-square&logo=opencv&logoColor=a1a1aa" alt="OpenCV">
-<img src="https://img.shields.io/badge/LangChain-262626?style=flat-square&logo=langchain&logoColor=a1a1aa" alt="LangChain">
-<img src="https://img.shields.io/badge/LangGraph-262626?style=flat-square" alt="LangGraph">
-<img src="https://img.shields.io/badge/FAISS-262626?style=flat-square" alt="FAISS">
-
-</td>
+<td valign="top"><b>ML / DEEP LEARNING</b></td>
+<td><code>PyTorch</code> | <code>scikit-learn</code> | <code>XGBoost</code> | <code>LightGBM</code> | <code>OpenCV</code></td>
 </tr>
 
 <tr>
-<td valign="top"><b>APPLICATION</b></td>
-<td>
+<td valign="top"><b>LLM / RETRIEVAL</b></td>
+<td><code>Transformers</code> | <code>LangGraph</code> | <code>LangChain</code> | <code>FAISS</code></td>
+</tr>
 
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=light">
-<img src="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=dark" alt="Jupyter, Streamlit, FastAPI, Flask, Docker, Git, Next.js">
-</picture>
+<tr>
+<td valign="top"><b>ENGINEERING</b></td>
+<td><code>FastAPI</code> | <code>Flask</code> | <code>Streamlit</code> | <code>Docker</code> | <code>Git</code></td>
+</tr>
 
-<sub>Python notebooks and services first; Docker for packaging; Next.js/React only when a frontend is needed.</sub>
-
-</td>
+<tr>
+<td valign="top"><b>DATA</b></td>
+<td><code>NumPy</code> | <code>pandas</code></td>
 </tr>
 </table>
 
@@ -219,4 +219,4 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 
 <br/>
 
-<sub>AI/ML | Open Source | Python</sub>
+<sub>AI/ML | Research | Open Source</sub>

@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Reyyi Shreyas. AI/ML engineer, open source, Python.">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Reyyi Shreyas. AI/ML engineer, researcher, open source.">
   <title>Reyyi Shreyas. AI/ML engineer, open source, Python.</title>
   <style>
     .prompt {
@@ -58,7 +58,7 @@
     <animate attributeName="width" from="0" to="118" dur="0.9s" begin="0.3s" fill="freeze"/>
   </rect>
 
-  <text class="role" x="64" y="274">AI/ML ENGINEER  |  OPEN SOURCE  |  PYTHON</text>
+  <text class="role" x="64" y="274">AI/ML ENGINEER  |  RESEARCH  |  OPEN SOURCE</text>
 
   <!-- portrait: embedded avatar, amber ring, rotating dashed orbit -->
   <g>
