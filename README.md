@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-light.svg">
-  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg" alt="Reyyi Shreyas. AI/ML engineer, open source, ML systems." width="100%">
+  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg" alt="Reyyi Shreyas. AI/ML engineer, open source, Python." width="100%">
 </picture>
 
 <br/>
@@ -128,12 +128,12 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 <td>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python,typescript,javascript&theme=light">
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" alt="Python, TypeScript, JavaScript">
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python">
 </picture>
 
-<sub><b>Python</b>: primary for ML, data and backend work. <b>TypeScript / JavaScript</b>: application layer.</sub>
+<sub><b>Python</b> for everything I build: ML research, data pipelines, services and tooling.</sub>
 
 </td>
 </tr>
@@ -143,9 +143,9 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 <td>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=light">
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&theme=dark" alt="PyTorch, TensorFlow">
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=pytorch&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=pytorch&theme=light">
+<img src="https://skillicons.dev/icons?i=pytorch&theme=dark" alt="PyTorch">
 </picture>
 
 <img src="https://img.shields.io/badge/NumPy-262626?style=flat-square&logo=numpy&logoColor=a1a1aa" alt="NumPy">
@@ -153,7 +153,9 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 <img src="https://img.shields.io/badge/scikit--learn-262626?style=flat-square&logo=scikitlearn&logoColor=a1a1aa" alt="scikit-learn">
 <img src="https://img.shields.io/badge/XGBoost-262626?style=flat-square" alt="XGBoost">
 <img src="https://img.shields.io/badge/LightGBM-262626?style=flat-square" alt="LightGBM">
+<img src="https://img.shields.io/badge/OpenCV-262626?style=flat-square&logo=opencv&logoColor=a1a1aa" alt="OpenCV">
 <img src="https://img.shields.io/badge/LangChain-262626?style=flat-square&logo=langchain&logoColor=a1a1aa" alt="LangChain">
+<img src="https://img.shields.io/badge/LangGraph-262626?style=flat-square" alt="LangGraph">
 <img src="https://img.shields.io/badge/FAISS-262626?style=flat-square" alt="FAISS">
 
 </td>
@@ -164,10 +166,12 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 <td>
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=fastapi,flask,nextjs,mysql,docker,git,jupyter&theme=dark">
-<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=fastapi,flask,nextjs,mysql,docker,git,jupyter&theme=light">
-<img src="https://skillicons.dev/icons?i=fastapi,flask,nextjs,mysql,docker,git,jupyter&theme=dark" alt="FastAPI, Flask, Next.js, MySQL, Docker, Git, Jupyter">
+<source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=dark">
+<source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=light">
+<img src="https://skillicons.dev/icons?i=jupyter,streamlit,fastapi,flask,docker,git,nextjs&theme=dark" alt="Jupyter, Streamlit, FastAPI, Flask, Docker, Git, Next.js">
 </picture>
+
+<sub>Python notebooks and services first; Docker for packaging; Next.js/React only when a frontend is needed.</sub>
 
 </td>
 </tr>
@@ -188,14 +192,14 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 ## GitHub activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&title_color=b45309&icon_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
-  <img src="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="GitHub stats for Reyyi Shreyas" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=b45309&icon_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
+  <img src="https://github-readme-stats.vercel.app/api?username=reyyishreyas&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=0&title_color=e8a33d&icon_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="GitHub stats for Reyyi Shreyas" width="49%">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=8&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=8&hide_border=true&border_radius=0&title_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=8&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="Top languages for reyyishreyas" width="49%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=b45309&text_color=18181b&label_color=52525b&bg_color=f4f4f5">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reyyishreyas&layout=compact&langs_count=2&hide_border=true&border_radius=0&title_color=e8a33d&text_color=e4e4e7&label_color=a1a1aa&bg_color=09090b" alt="Top languages for reyyishreyas" width="49%">
 </picture>
 
 <br/><br/>
@@ -220,4 +224,4 @@ Sub-pixel registration of Chandrayaan-2 imagery to LRO NAC using SIFT correspond
 
 <br/>
 
-<sub>AI/ML | Open Source | ML Systems</sub>
+<sub>AI/ML | Open Source | Python</sub>
