@@ -31,25 +31,33 @@
       font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
       font-size: 10.5px;
       letter-spacing: 1.1px;
-      fill: #a1a1aa;
+      fill: #71717a;
+    }
+    .role-sep {
+      fill: #e8a33d;
     }
   </style>
   <defs>
     <linearGradient id="sheen" gradientUnits="userSpaceOnUse" x1="-400" y1="0" x2="300" y2="0">
       <stop offset="0" stop-color="#fafaf9"/>
       <stop offset="0.46" stop-color="#fafaf9"/>
-      <stop offset="0.5" stop-color="#e8a33d"/>
+      <stop offset="0.5" stop-color="#fbbf24"/>
       <stop offset="0.54" stop-color="#fafaf9"/>
       <stop offset="1" stop-color="#fafaf9"/>
       <animate attributeName="x1" values="-400;1000" dur="4.5s" begin="0.8s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="300;1700" dur="4.5s" begin="0.8s" repeatCount="indefinite"/>
     </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#e8a33d" stop-opacity="0.12"/>
+      <stop offset="0.55" stop-color="#e8a33d" stop-opacity="0.072"/>
+      <stop offset="1" stop-color="#e8a33d" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <rect x="0.5" y="0.5" width="1199" height="339" fill="#09090b" stroke="#262626" stroke-width="1"/>
 
   <!-- faint scanline sweeping the panel, behind the text -->
-  <rect x="0" y="-8" width="1200" height="2.5" fill="#e8a33d" opacity="0.10">
+  <rect x="0" y="-8" width="1200" height="2.5" fill="#e8a33d" opacity="0.1">
     <animate attributeName="y" values="-8;348" dur="7s" repeatCount="indefinite"/>
   </rect>
 
@@ -66,10 +74,11 @@
     <animate attributeName="width" from="0" to="118" dur="0.9s" begin="0.3s" fill="freeze"/>
   </rect>
 
-  <text class="role" x="64" y="274">AI/ML ENGINEER  |  RESEARCH  |  OPEN SOURCE</text>
+  <text class="role" x="64" y="274" xml:space="preserve"><tspan>AI/ML ENGINEER</tspan><tspan class="role-sep">  |  </tspan><tspan>RESEARCH</tspan><tspan class="role-sep">  |  </tspan><tspan>OPEN SOURCE</tspan></text>
 
-  <!-- portrait: avatar rendered as ASCII text, amber ring, rotating dashed orbit -->
+  <!-- portrait: glow, avatar rendered as ASCII text, amber ring, rotating dashed orbit -->
   <g>
+    <circle cx="1034" cy="170" r="166" fill="url(#glow)"/>
     <text class="art" xml:space="preserve" x="923" y="63.2">
       <tspan x="923" dy="5.02">                                                                          </tspan>
       <tspan x="923" dy="5.02">                                       .......                            </tspan>

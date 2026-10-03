@@ -6,11 +6,15 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=71717A&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems." alt="Open-source contributor to nilearn, PCNtoolkit and movement. ML path: data to modeling to evaluation to systems. Deep learning, ensembles, agentic LLM systems." width="860">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=52525B&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems." alt="Open-source contributor to nilearn, PCNtoolkit and movement. ML path: data to modeling to evaluation to systems. Deep learning, ensembles, agentic LLM systems." width="860">
+</picture>
 
 <br/>
 
-<a href="https://github.com/reyyishreyas"><img src="https://img.shields.io/badge/GitHub-262626?style=flat-square&logo=github&logoColor=e4e4e7" alt="GitHub"></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyyi-shreyas/"><img src="https://img.shields.io/badge/LinkedIn-262626?style=flat-square&logo=linkedin&logoColor=e4e4e7" alt="LinkedIn"></a>&nbsp;&nbsp;<a href="mailto:reyyishreyas@gmail.com"><img src="https://img.shields.io/badge/Email-262626?style=flat-square&logo=gmail&logoColor=e4e4e7" alt="Email"></a>
+<a href="https://github.com/reyyishreyas"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-e4e4e7?style=flat-square&logo=github&logoColor=b45309"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d" alt="GitHub"></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyyi-shreyas/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-e4e4e7?style=flat-square&logo=linkedin&logoColor=b45309"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:reyyishreyas@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-e4e4e7?style=flat-square&logo=gmail&logoColor=b45309"><img src="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d" alt="Email"></picture></a>
 
 ---
 
@@ -41,10 +45,10 @@ I'd rather read the source than trust the demo.
 
 | Repository | Contribution | Status |
 |:--|:--|:--:|
-| [**nilearn** #6614](https://github.com/nilearn/nilearn/pull/6614) | Fixed the decoder training message being logged multiple times per `fit` | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
-| [**nilearn** #6597](https://github.com/nilearn/nilearn/pull/6597) | Fixed stale `standardize` docs across the user guide and docstrings; added a gallery example | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
-| [**PCNtoolkit** #551](https://github.com/predictive-clinical-neuroscience/PCNtoolkit/pull/551) | Documented `basis_column`, `nknots` and `degree` in the HBR normative-modelling tutorial | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
-| [**movement** #1115](https://github.com/neuroinformatics-unit/movement/pull/1115) | Added the IO-guide update step to the *"Implementing new loaders & writers"* guide | ![](https://img.shields.io/badge/MERGED-16a34a?style=flat-square) |
+| [**nilearn** #6614](https://github.com/nilearn/nilearn/pull/6614) | Fixed the decoder training message being logged multiple times per `fit` | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**nilearn** #6597](https://github.com/nilearn/nilearn/pull/6597) | Fixed stale `standardize` docs across the user guide and docstrings; added a gallery example | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**PCNtoolkit** #551](https://github.com/predictive-clinical-neuroscience/PCNtoolkit/pull/551) | Documented `basis_column`, `nknots` and `degree` in the HBR normative-modelling tutorial | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**movement** #1115](https://github.com/neuroinformatics-unit/movement/pull/1115) | Added the IO-guide update step to the *"Implementing new loaders & writers"* guide | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
 
 <sub>Selected open pull requests under review: PCNtoolkit #563, movement #1125 and #1127, artem-is #164 and #165, mcp-mifosx #522, mcp-mifosx-self-service #43 and #44, sentiment module #14.</sub>
 
@@ -84,7 +88,7 @@ Reduced first-feedback latency from **7.6s → 1.7s** while keeping generation g
 </td>
 <td width="50%" valign="top">
 
-**Research Paper Analyst** <a href="https://research-agent-rag.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-0d9488?style=flat-square" alt="Live demo"></a>
+**Research Paper Analyst** <a href="https://research-agent-rag.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-0f766e?style=flat-square" alt="Live demo"></a>
 
 Agentic RAG that autonomously chooses between retrieval, summarization and comparison tools over a paper corpus, with grounded, source-cited answers.
 
@@ -125,7 +129,7 @@ A 2-layer GRU predicts UAV trajectories from flight history; predictions drive t
 
 <td width="50%" valign="top">
 
-**TRICP** <a href="https://churn-predictor-kappa.vercel.app"><img src="https://img.shields.io/badge/LIVE-0d9488?style=flat-square" alt="Live demo"></a>
+**TRICP** <a href="https://churn-predictor-kappa.vercel.app"><img src="https://img.shields.io/badge/LIVE-0f766e?style=flat-square" alt="Live demo"></a>
 
 Stacking-ensemble churn prediction that surfaces the factors behind each prediction, then triggers personalized retention workflows automatically.
 
@@ -205,7 +209,11 @@ Contributed documentation, bug fixes and tooling improvements across scientific 
 
 ---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=71717A&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives." alt="Build the model. Understand the system. Test the assumptions. Ship what survives." width="700">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=E8A33D&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=B45309&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&duration=3500&pause=1200&color=E8A33D&vCenter=true&width=700&height=40&lines=Build+the+model.;Understand+the+system.;Test+the+assumptions.;Ship+what+survives." alt="Build the model. Understand the system. Test the assumptions. Ship what survives." width="700">
+</picture>
 
 <br/>
 

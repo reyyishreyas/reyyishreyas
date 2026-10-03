@@ -31,7 +31,10 @@
       font-family: "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
       font-size: 10.5px;
       letter-spacing: 1.1px;
-      fill: #52525b;
+      fill: #71717a;
+    }
+    .role-sep {
+      fill: #d97706;
     }
   </style>
   <defs>
@@ -44,6 +47,11 @@
       <animate attributeName="x1" values="-400;1000" dur="4.5s" begin="0.8s" repeatCount="indefinite"/>
       <animate attributeName="x2" values="300;1700" dur="4.5s" begin="0.8s" repeatCount="indefinite"/>
     </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#d97706" stop-opacity="0.09"/>
+      <stop offset="0.55" stop-color="#d97706" stop-opacity="0.054"/>
+      <stop offset="1" stop-color="#d97706" stop-opacity="0"/>
+    </radialGradient>
   </defs>
 
   <rect x="0.5" y="0.5" width="1199" height="339" fill="#f4f4f5" stroke="#e4e4e7" stroke-width="1"/>
@@ -66,10 +74,11 @@
     <animate attributeName="width" from="0" to="118" dur="0.9s" begin="0.3s" fill="freeze"/>
   </rect>
 
-  <text class="role" x="64" y="274">AI/ML ENGINEER  |  RESEARCH  |  OPEN SOURCE</text>
+  <text class="role" x="64" y="274" xml:space="preserve"><tspan>AI/ML ENGINEER</tspan><tspan class="role-sep">  |  </tspan><tspan>RESEARCH</tspan><tspan class="role-sep">  |  </tspan><tspan>OPEN SOURCE</tspan></text>
 
-  <!-- portrait: avatar rendered as ASCII text, amber ring, rotating dashed orbit -->
+  <!-- portrait: glow, avatar rendered as ASCII text, amber ring, rotating dashed orbit -->
   <g>
+    <circle cx="1034" cy="170" r="166" fill="url(#glow)"/>
     <text class="art" xml:space="preserve" x="923" y="63.2">
       <tspan x="923" dy="5.02">                                                                          </tspan>
       <tspan x="923" dy="5.02">                            @@@@@@@@@@@%%%%%%%                            </tspan>
