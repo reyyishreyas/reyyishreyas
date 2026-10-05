@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/hero-dark.svg" alt="Reyyi Shreyas. AI/ML engineer, researcher, open source. Portrait rendered as ASCII characters generated from a photo." width="100%">
 </picture>
 
-<br/>
+<br/h >
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
