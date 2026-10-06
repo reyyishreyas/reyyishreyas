@@ -7,9 +7,9 @@
 <br/>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=52525B&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit+and+movement.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems." alt="Open-source contributor to nilearn, PCNtoolkit and movement. ML path: data to modeling to evaluation to systems. Deep learning, ensembles, agentic LLM systems." width="860">
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit%2C+movement+and+mcp-mifosx.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=52525B&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit%2C+movement+and+mcp-mifosx.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=A1A1AA&vCenter=true&width=860&height=55&lines=Open-source+contributor+to+nilearn%2C+PCNtoolkit%2C+movement+and+mcp-mifosx.;ML+path%3A+data+%E2%86%92+modeling+%E2%86%92+evaluation+%E2%86%92+systems.;Deep+learning%2C+ensembles%2C+agentic+LLM+systems." alt="Open-source contributor to nilearn, PCNtoolkit, movement and mcp-mifosx. ML path: data to modeling to evaluation to systems. Deep learning, ensembles, agentic LLM systems." width="860">
 </picture>
 
 <br/>
@@ -20,14 +20,14 @@
 
 **ML engineer working the full path: raw data → modeling → evaluation → systems.**
 
-Most of what I learn happens in public: recent documentation and contributor work for **nilearn**, **PCNtoolkit** and **movement**, plus applied projects in deep learning, ensemble methods and agentic LLM systems.
+Most of what I learn happens in public: recent code, CI and documentation work for **nilearn**, **PCNtoolkit**, **movement** and **mcp-mifosx**, plus applied projects in deep learning, ensemble methods and agentic LLM systems.
 
 I'd rather read the source than trust the demo.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-light.svg">
-  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg" alt="Status panel: 244 commits, 17 pull requests, 11 repositories contributed to, 305 contribution days. Snapshot October 2026." width="100%">
+  <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg" alt="Status panel: 229 commits, 23 pull requests, 22 repositories contributed to, 67 contribution days in the last 12 months. Snapshot October 2026." width="100%">
 </picture>
 
 ---
@@ -36,7 +36,7 @@ I'd rather read the source than trust the demo.
 
 - Researching lightweight hallucination detection for quantized small LMs
 - Building and evaluating agentic LLM systems
-- Contributing to open-source scientific Python projects
+- Contributing to open-source scientific Python and MCP server projects
 - Exploring efficient ML systems and evaluation
 
 ---
@@ -45,12 +45,16 @@ I'd rather read the source than trust the demo.
 
 | Repository | Contribution | Status |
 |:--|:--|:--:|
+| [**mcp-mifosx** #530](https://github.com/openMF/mcp-mifosx/pull/530) | Fixed stale paths and commands in README and CONTRIBUTING | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**mcp-mifosx** #529](https://github.com/openMF/mcp-mifosx/pull/529) | Added pytest execution to Python CI, which installed it but never ran the tests | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**mcp-mifosx** #528](https://github.com/openMF/mcp-mifosx/pull/528) | Applied domain-aware action lookup in the suggestion engine, fixing empty results for the loans domain | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**mcp-mifosx** #522](https://github.com/openMF/mcp-mifosx/pull/522) | Matched plural keywords in intent routing so status queries return the right actions | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
 | [**nilearn** #6614](https://github.com/nilearn/nilearn/pull/6614) | Fixed the decoder training message being logged multiple times per `fit` | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
 | [**nilearn** #6597](https://github.com/nilearn/nilearn/pull/6597) | Fixed stale `standardize` docs across the user guide and docstrings; added a gallery example | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
 | [**PCNtoolkit** #551](https://github.com/predictive-clinical-neuroscience/PCNtoolkit/pull/551) | Documented `basis_column`, `nknots` and `degree` in the HBR normative-modelling tutorial | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
-| [**movement** #1115](https://github.com/neuroinformatics-unit/movement/pull/1115) | Added the IO-guide update step to the *"Implementing new loaders & writers"* guide | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
+| [**movement** #1115](https://github.com/neuroinformatics-unit/movement/pull/1115) | Added the IO-guide update step to the *Implementing new loaders & writers* guide | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
 
-<sub>Selected open pull requests under review: PCNtoolkit #563, movement #1125 and #1127, artem-is #164 and #165, mcp-mifosx #522, mcp-mifosx-self-service #43 and #44, sentiment module #14.</sub>
+<sub>Open pull requests under review: PCNtoolkit #563 and #566, movement #1125, #1127 and #1140, mcp-mifosx #550, artem-is #164 and #165, mcp-mifosx-self-service #43 and #44, sentiment module #14.</sub>
 
 ---
 
@@ -90,9 +94,9 @@ Reduced first-feedback latency from **7.6s → 1.7s** while keeping generation g
 
 **Research Paper Analyst** <a href="https://research-agent-rag.streamlit.app/"><img src="https://img.shields.io/badge/LIVE-0f766e?style=flat-square" alt="Live demo"></a>
 
-Agentic RAG that autonomously chooses between retrieval, summarization and comparison tools over a paper corpus, with grounded, source-cited answers.
+Agentic RAG that autonomously chooses between retrieval, summarization and comparison tools over a paper corpus, with grounded, source-cited answers, plus a RAGAS evaluation harness over a fixed question set.
 
-`LangChain` `Gemini` `FAISS`
+`LangGraph` `RAGAS` `FAISS`
 
 <a href="https://github.com/reyyishreyas/research-agent-rag">VIEW REPOSITORY →</a>
 
@@ -147,10 +151,10 @@ Stacking-ensemble churn prediction that surfaces the factors behind each predict
 
 ## Experience & leadership
 
-**ASTRA — President**
+**ASTRA: President**
 BMSIT&M's defence-technology student organization. Leading technical, research, recruitment and cross-team initiatives.
 
-**ML Intern — Launched Global**
+**ML Intern: Launched Global**
 Worked on machine-learning applications and applied AI workflows.
 
 **Open-source contributor**
@@ -173,12 +177,12 @@ Contributed documentation, bug fixes and tooling improvements across scientific 
 
 <tr>
 <td valign="top"><b>LLM / RETRIEVAL</b></td>
-<td><code>Transformers</code> | <code>LangGraph</code> | <code>LangChain</code> | <code>FAISS</code></td>
+<td><code>Transformers</code> | <code>LangGraph</code> | <code>LangChain</code> | <code>FAISS</code> | <code>RAGAS</code> | <code>MCP</code></td>
 </tr>
 
 <tr>
 <td valign="top"><b>ENGINEERING</b></td>
-<td><code>FastAPI</code> | <code>Flask</code> | <code>Streamlit</code> | <code>Docker</code> | <code>Git</code></td>
+<td><code>FastAPI</code> | <code>Flask</code> | <code>Streamlit</code> | <code>Docker</code> | <code>pytest</code> | <code>Git</code></td>
 </tr>
 
 <tr>
