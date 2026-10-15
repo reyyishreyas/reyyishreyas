@@ -14,7 +14,7 @@
 
 <br/>
 
-<a href="https://github.com/reyyishreyas"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-e4e4e7?style=flat-square&logo=github&logoColor=b45309"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d" alt="GitHub"></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyyi-shreyas/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-e4e4e7?style=flat-square&logo=linkedin&logoColor=b45309"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:reyyishreyas@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-e4e4e7?style=flat-square&logo=gmail&logoColor=b45309"><img src="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d" alt="Email"></picture></a>
+<a href="https://github.com/reyyishreyas"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/GitHub-e4e4e7?style=flat-square&logo=github&logoColor=b45309"><img src="https://img.shields.io/badge/GitHub-18181b?style=flat-square&logo=github&logoColor=e8a33d" alt="GitHub"></picture></a>&nbsp;&nbsp;<a href="https://www.linkedin.com/in/reyyi-shreyas/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/LinkedIn-e4e4e7?style=flat-square&logo=linkedin&logoColor=b45309"><img src="https://img.shields.io/badge/LinkedIn-18181b?style=flat-square&logo=linkedin&logoColor=e8a33d" alt="LinkedIn"></picture></a>&nbsp;&nbsp;<a href="mailto:reyyishreyas@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Email-e4e4e7?style=flat-square&logo=gmail&logoColor=b45309"><img src="https://img.shields.io/badge/Email-18181b?style=flat-square&logo=gmail&logoColor=e8a33d" alt="Email"></picture></a>&nbsp;&nbsp;<a href="https://portfolio-five-sand-oti5odvzqf.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Portfolio-18181b?style=flat-square&logo=vercel&logoColor=e8a33d"><source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/Portfolio-e4e4e7?style=flat-square&logo=vercel&logoColor=b45309"><img src="https://img.shields.io/badge/Portfolio-18181b?style=flat-square&logo=vercel&logoColor=e8a33d" alt="Portfolio"></picture></a>
 
 ---
 
@@ -210,6 +210,14 @@ Contributed documentation, bug fixes and tooling improvements across scientific 
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-light.svg">
   <img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/output/github-snake-dark.svg" alt="Contribution snake animation" width="100%">
 </picture>
+
+---
+
+## Portfolio
+
+<a href="https://portfolio-five-sand-oti5odvzqf.vercel.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/forest-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/forest-light.svg"><img src="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/forest-dark.svg" alt="Portfolio banner: Enter the forest. The same work as one continuous scroll, at portfolio-five-sand-oti5odvzqf.vercel.app" width="100%"></picture></a>
+
+<sub>The profile above, rebuilt as one scroll-lit journey: scenes, ambient sound and the work in motion.</sub>
 
 ---
 
