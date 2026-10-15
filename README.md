@@ -20,9 +20,15 @@
 
 **ML engineer working the full path: raw data → modeling → evaluation → systems.**
 
+I'm Reyyi Shreyas, an AI/ML engineer studying at BMSIT&M, president of ASTRA (BMSIT&M's defence-technology student organization) and an ML intern at Launched Global. I like problems where a model has to survive real data, not just a notebook.
+
 Most of what I learn happens in public: recent code, CI and documentation work for **nilearn**, **PCNtoolkit**, **movement** and **mcp-mifosx**, plus applied projects in deep learning, ensemble methods and agentic LLM systems.
 
+This page tells that story in order: **the pull requests other teams merged, the systems I've built, the research I'm pushing forward, the roles I've held, and the way I work**.
+
 I'd rather read the source than trust the demo.
+
+**Currently open to AI and ML internships.**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/reyyishreyas/reyyishreyas/main/assets/status-dark.svg">
@@ -43,6 +49,8 @@ I'd rather read the source than trust the demo.
 
 ## Open source contributions
 
+First, proof in other people's repositories: pull requests maintainers reviewed and merged.
+
 | Repository | Contribution | Status |
 |:--|:--|:--:|
 | [**mcp-mifosx** #530](https://github.com/openMF/mcp-mifosx/pull/530) | Fixed stale paths and commands in README and CONTRIBUTING | ![](https://img.shields.io/badge/MERGED-1f883d?style=flat-square) |
@@ -58,21 +66,9 @@ I'd rather read the source than trust the demo.
 
 ---
 
-## Research
-
-### Lightweight Retrieval-Grounded Hallucination Detection
-
-Researching a lightweight hallucination detection pipeline for quantized small language models using retrieval grounding, embedding-overlap signals and generation confidence.
-
-The system performs sentence-level detection using a lightweight classifier and evaluates the trade-offs between **FP16, 8-bit and 4-bit quantization** across detection quality, hallucination rate, latency and GPU memory.
-
-`LLMs` `RAG` `Quantization` `Hallucination Detection` `Evaluation`
-
-**Status:** Preparing submissions to research conferences
-
----
-
 ## Selected work
+
+Next, what I build: five projects, each carried from a first model to a working system.
 
 <table>
 <tr>
@@ -149,7 +145,25 @@ Stacking-ensemble churn prediction that surfaces the factors behind each predict
 
 ---
 
+## Research
+
+Then, where I'm going deeper.
+
+### Lightweight Retrieval-Grounded Hallucination Detection
+
+Researching a lightweight hallucination detection pipeline for quantized small language models using retrieval grounding, embedding-overlap signals and generation confidence.
+
+The system performs sentence-level detection using a lightweight classifier and evaluates the trade-offs between **FP16, 8-bit and 4-bit quantization** across detection quality, hallucination rate, latency and GPU memory.
+
+`LLMs` `RAG` `Quantization` `Hallucination Detection` `Evaluation`
+
+**Status:** Preparing submissions to research conferences
+
+---
+
 ## Experience & leadership
+
+Beyond the code: the roles behind the commits.
 
 **ASTRA: President**
 BMSIT&M's defence-technology student organization. Leading technical, research, recruitment and cross-team initiatives.
@@ -163,6 +177,8 @@ Contributed documentation, bug fixes and tooling improvements across scientific 
 ---
 
 ## Tech stack
+
+For scanners: the tools behind the work above.
 
 <table>
 <tr>
